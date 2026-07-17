@@ -4,15 +4,40 @@
   <img src="repository-cover.jpg" width="100%">
 </p>
 
+<h3 align="center">
+Interactive Power BI Dashboard for Repair & Return Operations
+</h3>
+
 <p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Analytics-red?style=for-the-badge)
+![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Analytics-B22222?style=for-the-badge)
 
 </p>
+
+---
+
+# 📌 Project Overview
+
+Repair & Return Dashboard is a comprehensive Power BI solution designed to monitor the complete repair lifecycle of faulty spare parts.
+
+The dashboard enables operations teams to track repair progress, monitor supplier performance, identify bottlenecks, reduce turnaround time, and improve decision-making through interactive KPIs and operational analytics.
+
+---
+
+# 🎯 Business Objectives
+
+- Monitor repair workflow end-to-end
+- Track open & completed repair cases
+- Measure supplier performance
+- Analyze repair cycle time
+- Detect operational bottlenecks
+- Monitor inventory aging
+- Improve warehouse return planning
+- Support data-driven operational decisions
 
 ---
 
@@ -24,47 +49,13 @@
 
 ---
 
-# 📌 Project Overview
-
-The **Repair & Return Dashboard** is an interactive **Power BI** solution developed to monitor the complete repair lifecycle of faulty spare parts.
-
-The dashboard enables stakeholders to track repair progress, identify operational bottlenecks, monitor supplier performance, measure repair cycle time, and support data-driven decision-making.
+# 📊 Dashboard Pages
 
 ---
 
-# 🎯 Business Objectives
+## 📍 Current Position & Completion Outlook
 
-- Monitor repair progress in real time.
-- Track open and completed repair cases.
-- Identify operational bottlenecks.
-- Analyze supplier performance.
-- Monitor repair cycle time.
-- Improve warehouse return planning.
-- Support management with KPI-driven insights.
-
----
-
-# 📊 Dashboard Features
-
-- Executive Overview
-- Open Items Monitoring
-- Supplier Analysis
-- Aging Analysis
-- Cumulative S-Curve
-- Monthly Performance
-- Cycle Time Analysis
-- Supplier Footprint
-- Critical Spare Parts Analysis
-
----
-
-# 📈 Dashboard Pages
-
----
-
-## 1️⃣ Current Position & Completion Outlook
-
-Provides an executive overview of repair status, completed items, open workload, recent receipts, and completion outlook.
+Executive summary of total received items, completed repairs, current workload, recent receipts, and projected completion status.
 
 <p align="center">
 <img src="05-current-position-completion-outlook.png" width="100%">
@@ -72,9 +63,9 @@ Provides an executive overview of repair status, completed items, open workload,
 
 ---
 
-## 2️⃣ Open Items by System
+## 📍 Open Items by System
 
-Shows the distribution of open repair items across different railway systems.
+Shows where repair requests are currently distributed across different railway systems.
 
 <p align="center">
 <img src="07-open-items-by-system.png" width="100%">
@@ -82,9 +73,9 @@ Shows the distribution of open repair items across different railway systems.
 
 ---
 
-## 3️⃣ Supplier Focus
+## 📍 Supplier Focus
 
-Highlights suppliers with the highest number of open items and measures supplier concentration risk.
+Ranks suppliers by workload and highlights supplier concentration risk.
 
 <p align="center">
 <img src="08-supplier-focus.png" width="100%">
@@ -92,9 +83,9 @@ Highlights suppliers with the highest number of open items and measures supplier
 
 ---
 
-## 4️⃣ Aging & Critical Attention
+## 📍 Aging & Critical Attention
 
-Displays the oldest repair cases requiring immediate operational follow-up.
+Identifies the oldest repair cases requiring immediate operational attention.
 
 <p align="center">
 <img src="10-aging-critical-attention.png" width="100%">
@@ -102,9 +93,9 @@ Displays the oldest repair cases requiring immediate operational follow-up.
 
 ---
 
-## 5️⃣ Supplier Footprint
+## 📍 Supplier Footprint
 
-Visualizes supplier locations and received faulty spare parts by country.
+Displays supplier distribution and faulty spare parts across countries.
 
 <p align="center">
 <img src="12-supplier-footprint.png" width="100%">
@@ -112,7 +103,7 @@ Visualizes supplier locations and received faulty spare parts by country.
 
 ---
 
-## 6️⃣ Cumulative S-Curve
+## 📍 Cumulative S-Curve
 
 Compares cumulative faulty receipts, forecasted returns, and actual warehouse returns.
 
@@ -122,9 +113,9 @@ Compares cumulative faulty receipts, forecasted returns, and actual warehouse re
 
 ---
 
-## 7️⃣ Monthly Closure Performance
+## 📍 Monthly Closure Performance
 
-Tracks monthly faulty receipts, supplier arrivals, and repaired items returned.
+Tracks monthly faulty receipts, repaired items, and warehouse returns.
 
 <p align="center">
 <img src="14-monthly-closure-performance.png" width="100%">
@@ -132,9 +123,9 @@ Tracks monthly faulty receipts, supplier arrivals, and repaired items returned.
 
 ---
 
-## 8️⃣ Cycle Time by Step
+## 📍 Cycle Time by Step
 
-Analyzes average repair cycle duration across every repair stage.
+Analyzes repair duration across every operational stage.
 
 <p align="center">
 <img src="15-cycle-time-by-step.png" width="100%">
@@ -142,38 +133,40 @@ Analyzes average repair cycle duration across every repair stage.
 
 ---
 
-# 📊 Key KPIs
+# 📈 Key Performance Indicators
 
 - Total Faulty Parts
 - Completed Repairs
-- Open Repairs
+- Open Repair Cases
 - Supplier Performance
-- Aging Analysis
-- Average Cycle Time
+- Average Repair Cycle
 - Warehouse Delivery Time
-- Repair Completion Rate
+- Inventory Aging
 - Forecast vs Actual
+- Repair Completion Rate
 - Cumulative Return Progress
 
 ---
 
 # 💡 Key Insights
 
-- Monitor repair backlog and completion trends.
-- Detect operational bottlenecks early.
-- Identify suppliers causing the highest delays.
-- Measure repair turnaround performance.
-- Improve forecasting accuracy.
-- Support proactive operational planning.
+- Monitor repair backlog in real time.
+- Detect operational bottlenecks quickly.
+- Identify suppliers with delayed repairs.
+- Measure turnaround time across each repair stage.
+- Compare forecasted and actual warehouse returns.
+- Improve operational planning using interactive KPIs.
 
 ---
 
-# 🛠 Tools Used
+# 🛠 Technologies Used
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Microsoft Excel
+| Tool | Purpose |
+|------|---------|
+| Microsoft Power BI | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | KPI & Business Calculations |
+| Microsoft Excel | Source Data |
 
 ---
 
@@ -182,24 +175,13 @@ Analyzes average repair cycle duration across every repair stage.
 - Data Cleaning
 - Data Transformation
 - Data Modeling
-- DAX Measures
+- DAX Development
 - KPI Design
-- Dashboard Development
-- Data Visualization
+- Dashboard Design
 - Supply Chain Analytics
-- Process Monitoring
 - Business Intelligence
-
----
-
-# 🚀 Future Improvements
-
-- Power BI Service Deployment
-- Automated Refresh
-- Row-Level Security (RLS)
-- Predictive Analytics
-- Drill-through Pages
-- Mobile Layout Optimization
+- Performance Monitoring
+- Operational Reporting
 
 ---
 
@@ -225,4 +207,19 @@ Repair-and-Return-Dashboard
 
 ---
 
-# ⭐ If you found this project helpful, don't forget to Star the repository!
+# 🚀 Future Improvements
+
+- Power BI Service Deployment
+- Automated Data Refresh
+- Row-Level Security (RLS)
+- Predictive Analytics
+- Mobile Dashboard Optimization
+- Drill-through Reporting
+
+---
+
+# ⭐ About This Project
+
+This project demonstrates how Power BI can transform operational repair data into actionable insights that help organizations monitor performance, improve supplier management, and reduce repair turnaround time.
+
+If you found this project useful, don't forget to ⭐ Star the repository.
