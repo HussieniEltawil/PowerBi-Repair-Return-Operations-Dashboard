@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/repository-cover.png" width="100%" alt="Repair & Return Dashboard">
+  <img src="repository-cover.png" width="100%" alt="Repair & Return Dashboard">
 </p>
 
 <h1 align="center">🔧 Repair & Return Dashboard</h1>
@@ -60,20 +60,16 @@ All visuals and values shown in this repository use **fictional sample data** cr
 
 ## 🖼 Portfolio Overview
 
-The portfolio overview presents the main dashboard pages, KPIs, charts, and operational reporting capabilities in one visual summary.
-
 <p align="center">
-  <img src="images/portfolio-overview.png" width="100%" alt="Repair and Return Portfolio Overview">
+  <img src="portfolio-overview.png" width="100%" alt="Repair and Return Portfolio Overview">
 </p>
 
 ---
 
 ## 📊 Dashboard Pages Overview
 
-The dashboard is organized into multiple analytical pages to provide end-to-end visibility across the repair and return process.
-
 <p align="center">
-  <img src="images/dashboard-pages-overview.png" width="100%" alt="Repair and Return Dashboard Pages Overview">
+  <img src="dashboard-pages-overview.png" width="100%" alt="Repair and Return Dashboard Pages Overview">
 </p>
 
 The dashboard structure includes:
@@ -93,15 +89,8 @@ The dashboard structure includes:
 
 The Cumulative S-Curve compares planned progress against actual completed work over time.
 
-It helps stakeholders:
-
-- Identify progress gaps.
-- Monitor achievement against forecast.
-- Detect delays early.
-- Evaluate whether operational progress is on track.
-
 <p align="center">
-  <img src="images/cumulative-s-curve.png" width="100%" alt="Cumulative Planned versus Actual S-Curve">
+  <img src="cumulative-s-curve.png" width="100%" alt="Cumulative Planned versus Actual S-Curve">
 </p>
 
 ---
@@ -167,8 +156,6 @@ This dashboard supports operations teams by providing:
 
 ## 🔒 Data Privacy
 
-This repository contains a portfolio-safe representation of a repair and return analytics dashboard.
-
 All data shown in the dashboard visuals is fictional and was created solely for demonstration purposes.
 
 The repository does not include:
@@ -190,11 +177,10 @@ Repair-and-Return-Dashboard
 │
 ├── README.md
 ├── LICENSE
-└── images
-    ├── repository-cover.png
-    ├── portfolio-overview.png
-    ├── dashboard-pages-overview.png
-    └── cumulative-s-curve.png
+├── repository-cover.png
+├── portfolio-overview.png
+├── dashboard-pages-overview.png
+└── cumulative-s-curve.png
 ```
 
 ---
@@ -204,7 +190,7 @@ Repair-and-Return-Dashboard
 - Build a downloadable PBIX version using synthetic data.
 - Add interactive drill-through pages.
 - Create a mobile dashboard layout.
-- Add Row-Level Security (RLS).
+- Add Row-Level Security.
 - Configure automated refresh.
 - Deploy the dashboard to Power BI Service.
 - Add predictive aging and completion forecasting.
