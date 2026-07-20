@@ -2,28 +2,44 @@
   <img src="Images/00-Project-Banner.png" alt="Repair & Return Operations Dashboard Banner" width="100%">
 </p>
 
-# Repair & Return Operations Dashboard | Power BI
+<h1 align="center">Repair & Return Operations Dashboard | Power BI</h1>
 
 <p align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Advanced-1f77b4)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-2ca02c)
-![Excel](https://img.shields.io/badge/Excel-Data-217346?logo=microsoftexcel&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-orange)
-![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
-
+  <strong>An enterprise-grade Power BI dashboard for monitoring end-to-end Repair & Return operations, featuring advanced DAX, Power Query, interactive KPI reporting, cycle-time analysis, supplier performance tracking, and operational risk insights using anonymized real-world data.</strong>
 </p>
 
 <p align="center">
-  <strong>Enterprise-level Power BI solution for monitoring Repair & Return operations using advanced DAX, Power Query, data modeling, and interactive operational dashboards.</strong>
+  <a href="https://github.com/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard/stargazers">
+    <img src="https://img.shields.io/github/stars/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard?style=for-the-badge&logo=github" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard/forks">
+    <img src="https://img.shields.io/github/forks/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard?style=for-the-badge&logo=github" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard/watchers">
+    <img src="https://img.shields.io/github/watchers/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard?style=for-the-badge&logo=github" alt="GitHub Watchers">
+  </a>
+  <a href="https://github.com/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard/issues">
+    <img src="https://img.shields.io/github/issues/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard?style=for-the-badge&logo=github" alt="Open Issues">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard?style=flat-square" alt="Repository Size">
+  <img src="https://img.shields.io/github/languages/top/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard?style=flat-square" alt="Top Language">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/DAX-Advanced-1f77b4?style=flat-square" alt="DAX">
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-2ca02c?style=flat-square" alt="Power Query">
+  <img src="https://img.shields.io/badge/Excel-Data-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema-orange?style=flat-square" alt="Data Modeling">
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square" alt="License">
 </p>
 
 ---
 
 ## Dashboard Walkthrough
 
-> Interactive overview of the dashboard pages and navigation.
+> Interactive overview of the dashboard pages, analytical views, and navigation flow.
 
 ![Dashboard Walkthrough](GIFs/01-Dashboard-Walkthrough.gif)
 
