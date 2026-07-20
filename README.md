@@ -1,5 +1,7 @@
 # Repair & Return Operations Dashboard | Power BI
-
+<p align="center">
+  <img src="Images/00-Project-Banner.png" width="100%">
+</p>
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-1f77b4)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-2ca02c)
