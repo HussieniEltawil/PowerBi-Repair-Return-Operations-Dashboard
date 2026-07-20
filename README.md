@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="Images/00-Project-Banner.png" alt="Repair & Return Operations Dashboard Banner" width="100%">
+</p>
+
 # Repair & Return Operations Dashboard | Power BI
+
+<p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-1f77b4)
@@ -7,16 +13,18 @@
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-orange)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 
-> Enterprise-level Power BI solution for monitoring Repair & Return operations using advanced DAX, Power Query, data modeling, and interactive operational dashboards.
+</p>
+
+<p align="center">
+  <strong>Enterprise-level Power BI solution for monitoring Repair & Return operations using advanced DAX, Power Query, data modeling, and interactive operational dashboards.</strong>
+</p>
 
 ---
 
-## Dashboard Preview
+## Dashboard Walkthrough
 
-<!-- Upload the final banner image to Images/00-Project-Banner.png -->
-![Project Banner](Images/00-Project-Banner.png)
+> Interactive overview of the dashboard pages and navigation.
 
-<!-- Upload the main walkthrough GIF to GIFs/01-Dashboard-Walkthrough.gif -->
 ![Dashboard Walkthrough](GIFs/01-Dashboard-Walkthrough.gif)
 
 ---
@@ -237,7 +245,6 @@ DAX Measures and Business Logic
 Interactive Dashboards and KPI Pages
 ```
 
-<!-- Replace this placeholder with a final architecture image -->
 ![Solution Architecture](Images/16-Solution-Architecture.png)
 
 ---
@@ -257,7 +264,6 @@ Modeling techniques used include:
 - Dedicated measure organization
 - Manual mapping tables for business classifications
 
-<!-- Export the Power BI Model View and save it using this exact filename -->
 ![Data Model](Images/17-Data-Model.png)
 
 ---
@@ -281,7 +287,6 @@ Main transformation steps include:
 11. Preparing date fields for calendar relationships
 12. Loading the transformed tables into the model
 
-<!-- Add a screenshot of the Power Query Applied Steps -->
 ![Power Query Workflow](Images/18-Power-Query-Workflow.png)
 
 ---
